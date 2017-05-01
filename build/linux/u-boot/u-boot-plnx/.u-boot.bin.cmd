@@ -1,0 +1,1 @@
+cmd_u-boot.bin := arm-xilinx-linux-gnueabi-objcopy  -j .text -j .secure_text -j .rodata -j .hash -j .data -j .got -j .got.plt -j .u_boot_list -j .rel.dyn -j .dtb.init.rodata --gap-fill=0xff -O binary  u-boot u-boot.bin

@@ -1,0 +1,12 @@
+Package: glibc-extra-nss
+Architecture: cortexa9-vfp-neon
+Auto-Installed: 1
+
+Package: libcidn1
+Architecture: cortexa9-vfp-neon
+Auto-Installed: 1
+
+Package: libthread-db1
+Architecture: cortexa9-vfp-neon
+Auto-Installed: 1
+

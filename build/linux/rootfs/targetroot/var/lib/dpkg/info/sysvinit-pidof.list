@@ -1,0 +1,5 @@
+/.
+/sbin
+/sbin/killall5
+/bin
+/bin/pidof.sysvinit

@@ -1,0 +1,7 @@
+PROOT:=/home/jie/opt/pkg/Xilinx-ZC702-2015.4
+INSTANCE:=linux/bootloader
+-include /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/Makefile.export
+-include /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/bootloader/Makefile.export
+CONFIGFILE:=/home/jie/opt/pkg/Xilinx-ZC702-2015.4/subsystems/linux/config
+dir_bootloader_y=/home/jie/opt/pkg/Xilinx-ZC702-2015.4/components/bootloader/zynq_fsbl
+

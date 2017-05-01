@@ -1,0 +1,4 @@
+a264f9c7b70ab0aa283c9056ed19b8c9  etc/init.d/mdev
+67287f05c7a0aff159800e1d6cc406f8  etc/mdev.conf
+680cf362fb344f32ba95b9a790e9a4e4  etc/mdev/mdev-mount.sh
+61f054095f53310bdff91ff83ff4a285  etc/mdev/find-touchscreen.sh

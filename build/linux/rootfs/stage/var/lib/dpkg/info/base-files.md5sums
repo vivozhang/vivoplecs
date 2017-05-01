@@ -1,0 +1,14 @@
+138de546838ec1333f1e04f87960004b  etc/skel/.profile
+afc1540d0ea2015726f4766fd983488f  etc/skel/.bashrc
+a0b758b0ae1eaefda1dfb8b031f7a903  etc/shells
+d41d8cd98f00b204e9800998ecf8427e  etc/default/usbd
+7884d4150d03161cbbf64bb1802e4411  etc/filesystems
+2c56f6c7bc74c677d08d1121811958be  etc/hostname
+c4633b44d76116015019ee9829657de8  etc/issue
+37eedfe899acf962aa838346805561c9  etc/profile
+d41d8cd98f00b204e9800998ecf8427e  etc/motd
+74bfd61b7b20e9a5af8477c8f754657a  etc/issue.net
+109e33e2c91d1853b5bc56078a96aa18  etc/nsswitch.conf
+a61b9f6548d337c1cc1e5a4de39f7b7f  etc/host.conf
+34d3473dd8a73b0f4da6f4e61d4f3ec5  etc/fstab
+27bb8dcd68671f6d61f6fda7333f3c26  etc/inputrc

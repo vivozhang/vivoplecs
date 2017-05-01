@@ -1,0 +1,38 @@
+PROOT:=/home/jie/opt/pkg/Xilinx-ZC702-2015.4
+INSTANCE:=linux
+-include /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/Makefile.export
+CONFIGFILE:=/home/jie/opt/pkg/Xilinx-ZC702-2015.4/subsystems/linux/config
+dir_subsystem_y=/home/jie/opt/pkg/petalinux-v2015.4-final/components/subsystem/linux
+dir_device_tree_y+=/none/device-tree/single/device-tree-generator
+dir_kernel_y+=/kernel/linux-kernel/single/xlnx-4.0
+dir_rootfs_y+=/none/rootfs/single/petalinux-rootfs
+depend_rootfs_y+=$(dir_kernel_y)
+ifeq ($(dir_kernel_y),)
+$(addprefix sub_build_component_,$(dir_kernel_y)):$(addprefix sub_build_component_,$(depend_kernel_y))
+$(addprefix sub_install_component_,$(dir_kernel_y)):$(addprefix sub_install_component_,$(depend_kernel_y))
+endif
+ifeq ($(dir_kernel_y),)
+$(addprefix sub_build_component_,$(dir_kernel_y)):$(addprefix sub_build_component_,$(depend_kernel_y))
+$(addprefix sub_install_component_,$(dir_kernel_y)):$(addprefix sub_install_component_,$(depend_kernel_y))
+endif
+ifeq ($(dir_kernel_y),)
+$(addprefix sub_build_component_,$(dir_kernel_y)):$(addprefix sub_build_component_,$(depend_kernel_y))
+$(addprefix sub_install_component_,$(dir_kernel_y)):$(addprefix sub_install_component_,$(depend_kernel_y))
+endif
+ifeq ($(dir_kernel_y),)
+$(addprefix sub_build_component_,$(dir_kernel_y)):$(addprefix sub_build_component_,$(depend_kernel_y))
+$(addprefix sub_install_component_,$(dir_kernel_y)):$(addprefix sub_install_component_,$(depend_kernel_y))
+endif
+ifeq ($(dir_kernel_y),)
+$(addprefix sub_build_component_,$(dir_kernel_y)):$(addprefix sub_build_component_,$(depend_kernel_y))
+$(addprefix sub_install_component_,$(dir_kernel_y)):$(addprefix sub_install_component_,$(depend_kernel_y))
+endif
+ifeq ($(dir_kernel_y),)
+$(addprefix sub_build_component_,$(dir_kernel_y)):$(addprefix sub_build_component_,$(depend_kernel_y))
+$(addprefix sub_install_component_,$(dir_kernel_y)):$(addprefix sub_install_component_,$(depend_kernel_y))
+endif
+ifeq ($(dir_kernel_y),)
+$(addprefix sub_build_component_,$(dir_kernel_y)):$(addprefix sub_build_component_,$(depend_kernel_y))
+$(addprefix sub_install_component_,$(dir_kernel_y)):$(addprefix sub_install_component_,$(depend_kernel_y))
+endif
+

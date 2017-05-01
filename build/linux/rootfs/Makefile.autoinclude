@@ -1,0 +1,55 @@
+PROOT:=/home/jie/opt/pkg/Xilinx-ZC702-2015.4
+INSTANCE:=linux/rootfs
+-include /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/Makefile.export
+-include /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/Makefile.export
+CONFIGFILE:=/home/jie/opt/pkg/Xilinx-ZC702-2015.4/subsystems/linux/configs/rootfs/config
+dir_rootfs_y=/home/jie/opt/pkg/petalinux-v2015.4-final/components/rootfs/petalinux-rootfs
+dir_apps_y+=/none/apps/multi/echo_test
+depend_apps_y+=$(dir_packages_repo_y)
+depend_apps_y+=$(dir_libs_y)
+dir_apps_y+=/none/apps/multi/fwupgrade
+depend_apps_y+=$(dir_packages_repo_y)
+depend_apps_y+=$(dir_libs_y)
+dir_apps_y+=/none/apps/multi/gpio-demo
+depend_apps_y+=$(dir_packages_repo_y)
+depend_apps_y+=$(dir_libs_y)
+dir_apps_y+=/none/apps/multi/latencystat
+depend_apps_y+=$(dir_packages_repo_y)
+depend_apps_y+=$(dir_libs_y)
+dir_apps_y+=/none/apps/multi/linux_led_test
+depend_apps_y+=$(dir_packages_repo_y)
+depend_apps_y+=$(dir_libs_y)
+dir_apps_y+=/none/apps/multi/mat_mul_demo
+depend_apps_y+=$(dir_packages_repo_y)
+depend_apps_y+=$(dir_libs_y)
+dir_apps_y+=/none/apps/multi/peekpoke
+depend_apps_y+=$(dir_packages_repo_y)
+depend_apps_y+=$(dir_libs_y)
+dir_apps_y+=/none/apps/multi/proxy_app
+depend_apps_y+=$(dir_packages_repo_y)
+depend_apps_y+=$(dir_libs_y)
+dir_apps_y+=/none/apps/multi/vivo_linux_receive
+depend_apps_y+=$(dir_packages_repo_y)
+depend_apps_y+=$(dir_libs_y)
+dir_modules_y+=/none/modules/multi/rpmsg_echo_test_kern_app
+dir_modules_y+=/none/modules/multi/rpmsg_mat_mul_kern_app
+dir_modules_y+=/none/modules/multi/rpmsg_proxy_dev_driver
+dir_modules_y+=/none/modules/multi/rpmsg_user_dev_driver
+dir_packages_repo_y+=/none/packages-repo/single/plnx-repo
+ifeq ($(dir_libs_y),)
+$(addprefix sub_build_component_,$(dir_libs_y)):$(addprefix sub_build_component_,$(depend_libs_y))
+$(addprefix sub_install_component_,$(dir_libs_y)):$(addprefix sub_install_component_,$(depend_libs_y))
+endif
+ifeq ($(dir_libs_y),)
+$(addprefix sub_build_component_,$(dir_libs_y)):$(addprefix sub_build_component_,$(depend_libs_y))
+$(addprefix sub_install_component_,$(dir_libs_y)):$(addprefix sub_install_component_,$(depend_libs_y))
+endif
+ifeq ($(dir_libs_y),)
+$(addprefix sub_build_component_,$(dir_libs_y)):$(addprefix sub_build_component_,$(depend_libs_y))
+$(addprefix sub_install_component_,$(dir_libs_y)):$(addprefix sub_install_component_,$(depend_libs_y))
+endif
+ifeq ($(dir_libs_y),)
+$(addprefix sub_build_component_,$(dir_libs_y)):$(addprefix sub_build_component_,$(depend_libs_y))
+$(addprefix sub_install_component_,$(dir_libs_y)):$(addprefix sub_install_component_,$(depend_libs_y))
+endif
+

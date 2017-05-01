@@ -1,0 +1,2 @@
+zynq_sdhci.c:16:5:zynq_sdhci_init	8	static
+zynq_sdhci.c:37:5:zynq_sdhci_of_init	16	static

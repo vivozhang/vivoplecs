@@ -1,0 +1,28 @@
+[ALL  ] make: Entering directory '/home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/apps/vivo_linux_receive'
+[INFO ] pre-build linux/rootfs/vivo_linux_receive
+[ALL  ] make: Leaving directory '/home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/apps/vivo_linux_receive'
+[ALL  ] make: Entering directory '/home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/apps/vivo_linux_receive'
+[INFO ] build linux/rootfs/vivo_linux_receive
+[ALL  ] arm-xilinx-linux-gnueabi-gcc  -c -O0 -g -pipe -fno-common -fno-builtin -Wall  -march=armv7-a -mfpu=neon -mfloat-abi=softfp -mthumb-interwork -mtune=cortex-a9  -DEMBED -Dlinux -D__linux__ -Dunix -fPIC --sysroot=/home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage -o vivo_linux_receive.o vivo_linux_receive.c
+[ALL  ] vivo_linux_receive.c: In function 'main':
+[ALL  ] vivo_linux_receive.c:120:8: warning: unused variable 'write_result' [-Wunused-variable]
+[ALL  ]     int write_result = write(fd, r_payload,
+[ALL  ]         ^
+[ALL  ] vivo_linux_receive.c:55:24: warning: unused variable 'bytes_sent' [-Wunused-variable]
+[ALL  ]   int size, bytes_rcvd, bytes_sent;
+[ALL  ]                         ^
+[ALL  ] vivo_linux_receive.c:54:19: warning: variable 'expect_rnum' set but not used [-Wunused-but-set-variable]
+[ALL  ]   int cmd, ret, i, expect_rnum;
+[ALL  ]                    ^
+[ALL  ] arm-xilinx-linux-gnueabi-gcc  --sysroot=/home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage -o vivo_linux_receive vivo_linux_receive.o 
+[ALL  ] make: Leaving directory '/home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/apps/vivo_linux_receive'
+[ALL  ] make: Entering directory '/home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/apps/vivo_linux_receive'
+[INFO ] post-build linux/rootfs/vivo_linux_receive
+[ALL  ] make: Leaving directory '/home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/apps/vivo_linux_receive'
+[ALL  ] make: Entering directory '/home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/apps/vivo_linux_receive'
+[INFO ] pre-install linux/rootfs/vivo_linux_receive
+[ALL  ] make: Leaving directory '/home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/apps/vivo_linux_receive'
+[ALL  ] make: Entering directory '/home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/apps/vivo_linux_receive'
+[INFO ] install linux/rootfs/vivo_linux_receive
+[ALL  ] /home/jie/opt/pkg/petalinux-v2015.4-final/components/rootfs/targetroot-inst.sh -S -d vivo_linux_receive /bin/vivo_linux_receive
+[ALL  ] make: Leaving directory '/home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/apps/vivo_linux_receive'

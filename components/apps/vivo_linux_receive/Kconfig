@@ -1,0 +1,14 @@
+###############################################################################
+# Please modify this file if you want to configure your own application.
+# You can uncommon and/or change the following Kconfig elements.
+###############################################################################
+
+
+if ROOTFS_COMPONENT_APPS_NAME_VIVO_LINUX_RECEIVE
+	comment "No additional options for VIVO_LINUX_RECEIVE"
+
+# 	config APPS_VIVO_LINUX_RECEIVE_OPTION0
+#	bool "option0"
+#	help
+#	  Help text
+endif

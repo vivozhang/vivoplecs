@@ -1,0 +1,530 @@
+
+Log started: 2017-03-20  14:42:19
+dpkg: warning: 'ldconfig' not found in PATH or not executable
+dpkg: warning: 'start-stop-daemon' not found in PATH or not executable
+dpkg: warning: overriding problem because --force enabled:
+ 2 expected programs not found in PATH or not executable
+Note: root's PATH should usually contain /usr/local/sbin, /usr/sbin and /sbin
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package base-files.
+(Reading database ... (Reading database ... 100%(Reading database ... 0 files and directories currently installed.)
+Unpacking base-files (from .../base-files_3.0.14-r89_cortexa9-vfp-neon.deb) ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package base-files-dbg.
+Unpacking base-files-dbg (from .../base-files-dbg_3.0.14-r89_cortexa9-vfp-neon.deb) ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package base-files-dev.
+Unpacking base-files-dev (from .../base-files-dev_3.0.14-r89_cortexa9-vfp-neon.deb) ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package base-passwd.
+Unpacking base-passwd (from .../base-passwd_3.5.29-r0_cortexa9-vfp-neon.deb) ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package base-passwd-dbg.
+Unpacking base-passwd-dbg (from .../base-passwd-dbg_3.5.29-r0_cortexa9-vfp-neon.deb) ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package base-passwd-dev.
+Unpacking base-passwd-dev (from .../base-passwd-dev_3.5.29-r0_cortexa9-vfp-neon.deb) ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package update-alternatives-opkg.
+Unpacking update-alternatives-opkg (from .../update-alternatives-opkg_0.1.8+git0+53274f0875-r0_cortexa9-vfp-neon.deb) ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package libc6.
+Unpacking libc6 (from .../libc6_2.21-r1_cortexa9-vfp-neon.deb) ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package busybox.
+Unpacking busybox (from .../busybox_1.23.1-r0_cortexa9-vfp-neon.deb) ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package busybox-dbg.
+Unpacking busybox-dbg (from .../busybox-dbg_1.23.1-r0_cortexa9-vfp-neon.deb) ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package busybox-dev.
+Unpacking busybox-dev (from .../busybox-dev_1.23.1-r0_cortexa9-vfp-neon.deb) ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package busybox-inetd.
+Unpacking busybox-inetd (from .../busybox-inetd_1.23.1-r0_cortexa9-vfp-neon.deb) ...
+ Removing any system startup links for inetd.busybox ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package busybox-mdev.
+Unpacking busybox-mdev (from .../busybox-mdev_1.23.1-r0_cortexa9-vfp-neon.deb) ...
+ Removing any system startup links for mdev ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package busybox-syslog.
+Unpacking busybox-syslog (from .../busybox-syslog_1.23.1-r0_cortexa9-vfp-neon.deb) ...
+ Removing any system startup links for syslog ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package busybox-udhcpc.
+Unpacking busybox-udhcpc (from .../busybox-udhcpc_1.23.1-r0_cortexa9-vfp-neon.deb) ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package libgcc-s1.
+Unpacking libgcc-s1 (from .../libgcc-s1_4.9.2-r1_cortexa9-vfp-neon.deb) ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package gdbserver.
+Unpacking gdbserver (from .../gdbserver_7.7.50.20140217-cvs-r1_cortexa9-vfp-neon.deb) ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package gdbserver-dbg.
+Unpacking gdbserver-dbg (from .../gdbserver-dbg_7.7.50.20140217-cvs-r1_cortexa9-vfp-neon.deb) ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package glibc-extra-nss.
+Unpacking glibc-extra-nss (from .../glibc-extra-nss_2.21-r1_cortexa9-vfp-neon.deb) ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package netbase.
+Unpacking netbase (from .../netbase_1:5.3-r0_cortexa9-vfp-neon.deb) ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package init-ifupdown.
+Unpacking init-ifupdown (from .../init-ifupdown_1.0-r7_cortexa9-vfp-neon.deb) ...
+ Removing any system startup links for networking ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package init-ifupdown-dbg.
+Unpacking init-ifupdown-dbg (from .../init-ifupdown-dbg_1.0-r7_cortexa9-vfp-neon.deb) ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package init-ifupdown-dev.
+Unpacking init-ifupdown-dev (from .../init-ifupdown-dev_1.0-r7_cortexa9-vfp-neon.deb) ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package initscripts-functions.
+Unpacking initscripts-functions (from .../initscripts-functions_1.0-r155_cortexa9-vfp-neon.deb) ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package initscripts.
+Unpacking initscripts (from .../initscripts_1.0-r155_cortexa9-vfp-neon.deb) ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package initscripts-dbg.
+Unpacking initscripts-dbg (from .../initscripts-dbg_1.0-r155_cortexa9-vfp-neon.deb) ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package initscripts-dev.
+Unpacking initscripts-dev (from .../initscripts-dev_1.0-r155_cortexa9-vfp-neon.deb) ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package iproute2.
+Unpacking iproute2 (from .../iproute2_3.17.0-r0_cortexa9-vfp-neon.deb) ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package iproute2-dbg.
+Unpacking iproute2-dbg (from .../iproute2-dbg_3.17.0-r0_cortexa9-vfp-neon.deb) ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package iproute2-dev.
+Unpacking iproute2-dev (from .../iproute2-dev_3.17.0-r0_cortexa9-vfp-neon.deb) ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package libc6-dbg.
+Unpacking libc6-dbg (from .../libc6-dbg_2.21-r1_cortexa9-vfp-neon.deb) ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package libthread-db1.
+Unpacking libthread-db1 (from .../libthread-db1_2.21-r1_cortexa9-vfp-neon.deb) ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package libcidn1.
+Unpacking libcidn1 (from .../libcidn1_2.21-r1_cortexa9-vfp-neon.deb) ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package libc6-dev.
+Unpacking libc6-dev (from .../libc6-dev_2.21-r1_cortexa9-vfp-neon.deb) ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package libgcc-s-dev.
+Unpacking libgcc-s-dev (from .../libgcc-s-dev_4.9.2-r1_cortexa9-vfp-neon.deb) ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package linux-libc-headers.
+Unpacking linux-libc-headers (from .../linux-libc-headers_3.19.0-r1_cortexa9-vfp-neon.deb) ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package modutils-initscripts.
+Unpacking modutils-initscripts (from .../modutils-initscripts_1.0-r7_cortexa9-vfp-neon.deb) ...
+ Removing any system startup links for modutils.sh ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package modutils-initscripts-dbg.
+Unpacking modutils-initscripts-dbg (from .../modutils-initscripts-dbg_1.0-r7_cortexa9-vfp-neon.deb) ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package modutils-initscripts-dev.
+Unpacking modutils-initscripts-dev (from .../modutils-initscripts-dev_1.0-r7_cortexa9-vfp-neon.deb) ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package mtd-utils.
+Unpacking mtd-utils (from .../mtd-utils_1.5.1+git0+9f107132a6-r0_cortexa9-vfp-neon.deb) ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package mtd-utils-dbg.
+Unpacking mtd-utils-dbg (from .../mtd-utils-dbg_1.5.1+git0+9f107132a6-r0_cortexa9-vfp-neon.deb) ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package mtd-utils-dev.
+Unpacking mtd-utils-dev (from .../mtd-utils-dev_1.5.1+git0+9f107132a6-r0_cortexa9-vfp-neon.deb) ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package netbase-dbg.
+Unpacking netbase-dbg (from .../netbase-dbg_1:5.3-r0_cortexa9-vfp-neon.deb) ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package netbase-dev.
+Unpacking netbase-dev (from .../netbase-dev_1:5.3-r0_cortexa9-vfp-neon.deb) ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package sysvinit-pidof.
+Unpacking sysvinit-pidof (from .../sysvinit-pidof_2.88dsf-r14_cortexa9-vfp-neon.deb) ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package sysvinit-inittab.
+Unpacking sysvinit-inittab (from .../sysvinit-inittab_2.88dsf-r10_cortexa9-vfp-neon.deb) ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package sysvinit.
+Unpacking sysvinit (from .../sysvinit_2.88dsf-r14_cortexa9-vfp-neon.deb) ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package sysvinit-dbg.
+Unpacking sysvinit-dbg (from .../sysvinit-dbg_2.88dsf-r14_cortexa9-vfp-neon.deb) ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package sysvinit-dev.
+Unpacking sysvinit-dev (from .../sysvinit-dev_2.88dsf-r14_cortexa9-vfp-neon.deb) ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package sysvinit-inittab-dbg.
+Unpacking sysvinit-inittab-dbg (from .../sysvinit-inittab-dbg_2.88dsf-r10_cortexa9-vfp-neon.deb) ...
+dpkg: warning: overriding problem because --force enabled:
+ package architecture (cortexa9-vfp-neon) does not match system (amd64)
+Selecting previously unselected package sysvinit-inittab-dev.
+Unpacking sysvinit-inittab-dev (from .../sysvinit-inittab-dev_2.88dsf-r10_cortexa9-vfp-neon.deb) ...
+Selecting previously unselected package update-rc.d.
+Unpacking update-rc.d (from .../update-rc.d_0.7-r5_all.deb) ...
+Selecting previously unselected package update-rc.d-dev.
+Unpacking update-rc.d-dev (from .../update-rc.d-dev_0.7-r5_all.deb) ...
+dpkg: warning: 'ldconfig' not found in PATH or not executable
+dpkg: warning: 'start-stop-daemon' not found in PATH or not executable
+dpkg: warning: overriding problem because --force enabled:
+ 2 expected programs not found in PATH or not executable
+Note: root's PATH should usually contain /usr/local/sbin, /usr/sbin and /sbin
+Setting up base-files (3.0.14-r89) ...
+
+Configuration file `/etc/fstab', does not exist on system.
+Installing new config file as you requested.
+
+Configuration file `/etc/hostname', does not exist on system.
+Installing new config file as you requested.
+
+Configuration file `/etc/shells', does not exist on system.
+Installing new config file as you requested.
+
+Configuration file `/etc/motd', does not exist on system.
+Installing new config file as you requested.
+
+Configuration file `/etc/nsswitch.conf', does not exist on system.
+Installing new config file as you requested.
+
+Configuration file `/etc/profile', does not exist on system.
+Installing new config file as you requested.
+Setting up base-files-dbg (3.0.14-r89) ...
+Setting up base-files-dev (3.0.14-r89) ...
+Setting up base-passwd (3.5.29-r0) ...
+Setting up base-passwd-dbg (3.5.29-r0) ...
+Setting up base-passwd-dev (3.5.29-r0) ...
+Setting up update-alternatives-opkg (0.1.8+git0+53274f0875-r0) ...
+Setting up libc6 (2.21-r1) ...
+Setting up busybox (1.23.1-r0) ...
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/ar to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/gunzip to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/zcat to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/cpio to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/gzip to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/tar to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/unzip to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/date to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/groups to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/id to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/shuf to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/touch to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/unlink to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/users to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/who to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/awk to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/cmp to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/diff to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/patch to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/sed to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/vi to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/find to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/grep to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/egrep to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/fgrep to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/xargs to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/sbin/halt to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/sbin/poweroff to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/sbin/reboot to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/mesg to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/sbin/depmod to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/sbin/insmod to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/sbin/lsmod to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/sbin/modprobe to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/sbin/rmmod to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/ash to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/sh to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/fatattr to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/sbin/fstrim to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/sbin/mdev to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/[ to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/[[ to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/sbin/addgroup to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/sbin/adduser to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/basename to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/cat to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/chattr to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/chgrp to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/chmod to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/chown to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/sbin/chroot to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/chvt to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/clear to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/cp to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/cut to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/dc to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/dd to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/deallocvt to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/sbin/delgroup to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/sbin/deluser to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/sbin/devmem to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/df to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/dirname to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/dmesg to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/dnsdomainname to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/du to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/dumpkmap to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/dumpleases to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/echo to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/env to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/expr to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/false to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/sbin/fbset to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/sbin/fdisk to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/flock to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/free to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/sbin/fsck to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/sbin/ftpd to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/ftpget to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/ftpput to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/fuser to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/getopt to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/sbin/getty to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/hd to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/head to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/hexdump to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/hostname to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/sbin/httpd to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/sbin/hwclock to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/sbin/ifconfig to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/sbin/ifdown to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/sbin/ifup to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/sbin/inetd to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/sbin/ip to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/kill to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/killall to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/sbin/klogd to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/less to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/ln to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/sbin/loadfont to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/sbin/loadkmap to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/logger to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/logname to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/sbin/logread to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/sbin/losetup to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/ls to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/md5sum to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/microcom to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/mkdir to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/sbin/mkdosfs to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/mkfifo to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/sbin/mkfs.vfat to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/mknod to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/sbin/mkswap to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/mktemp to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/more to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/mount to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/mv to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/netstat to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/nice to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/nohup to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/nslookup to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/od to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/openvt to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/pidof to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/sbin/pivot_root to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/printf to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/ps to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/pwd to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/sbin/rdate to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/readlink to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/realpath to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/renice to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/reset to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/rm to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/rmdir to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/sbin/route to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/run-parts to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/seq to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/sbin/setconsole to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/sha1sum to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/sha3sum to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/sha256sum to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/sha512sum to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/sleep to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/sort to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/sbin/start-stop-daemon to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/stat to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/strings to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/stty to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/sbin/sulogin to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/sbin/swapoff to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/sbin/swapon to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/sbin/switch_root to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/sync to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/sbin/sysctl to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/sbin/syslogd to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/tail to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/tee to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/telnet to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/sbin/telnetd to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/test to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/tftp to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/time to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/top to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/tr to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/true to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/tty to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/sbin/udhcpc to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/sbin/udhcpd to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/umount to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/uname to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/uniq to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/uptime to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/usleep to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/watch to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/sbin/watchdog to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/wc to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/wget to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/which to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/whoami to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/yes to /bin/busybox.nosuid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/ping to /bin/busybox.suid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/ping6 to /bin/busybox.suid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/login to /bin/busybox.suid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/passwd to /bin/busybox.suid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/su to /bin/busybox.suid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/traceroute to /bin/busybox.suid
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/vlock to /bin/busybox.suid
+Setting up busybox-dbg (1.23.1-r0) ...
+Setting up busybox-dev (1.23.1-r0) ...
+Setting up busybox-inetd (1.23.1-r0) ...
+
+Configuration file `/etc/inetd.conf', does not exist on system.
+Installing new config file as you requested.
+ Adding system startup for /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/etc/init.d/inetd.busybox.
+Setting up busybox-mdev (1.23.1-r0) ...
+
+Configuration file `/etc/mdev.conf', does not exist on system.
+Installing new config file as you requested.
+ Adding system startup for /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/etc/init.d/mdev.
+Setting up busybox-syslog (1.23.1-r0) ...
+
+Configuration file `/etc/syslog-startup.conf.busybox', does not exist on system.
+Installing new config file as you requested.
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/etc/syslog.conf to /etc/syslog.conf.busybox
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/etc/init.d/syslog to /etc/init.d/syslog.busybox
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/etc/syslog-startup.conf to /etc/syslog-startup.conf.busybox
+ Adding system startup for /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/etc/init.d/syslog.
+Setting up busybox-udhcpc (1.23.1-r0) ...
+Setting up libgcc-s1 (4.9.2-r1) ...
+Setting up gdbserver (7.7.50.20140217-cvs-r1) ...
+Setting up gdbserver-dbg (7.7.50.20140217-cvs-r1) ...
+Setting up glibc-extra-nss (2.21-r1) ...
+Setting up netbase (1:5.3-r0) ...
+
+Configuration file `/etc/hosts', does not exist on system.
+Installing new config file as you requested.
+Setting up init-ifupdown (1.0-r7) ...
+
+Configuration file `/etc/network/interfaces', does not exist on system.
+Installing new config file as you requested.
+ Adding system startup for /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/etc/init.d/networking.
+Setting up init-ifupdown-dbg (1.0-r7) ...
+Setting up init-ifupdown-dev (1.0-r7) ...
+Setting up initscripts-functions (1.0-r155) ...
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/etc/init.d/functions to /etc/init.d/functions.initscripts
+Setting up initscripts (1.0-r155) ...
+
+Configuration file `/etc/init.d/checkroot.sh', does not exist on system.
+Installing new config file as you requested.
+Setting up initscripts-dbg (1.0-r155) ...
+Setting up initscripts-dev (1.0-r155) ...
+Setting up iproute2 (3.17.0-r0) ...
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/sbin/ip to /sbin/ip.iproute2
+Setting up iproute2-dbg (3.17.0-r0) ...
+Setting up iproute2-dev (3.17.0-r0) ...
+Setting up libc6-dbg (2.21-r1) ...
+Setting up libthread-db1 (2.21-r1) ...
+Setting up libcidn1 (2.21-r1) ...
+Setting up libc6-dev (2.21-r1) ...
+Setting up libgcc-s-dev (4.9.2-r1) ...
+Setting up linux-libc-headers (3.19.0-r1) ...
+Setting up modutils-initscripts (1.0-r7) ...
+ Adding system startup for /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/etc/init.d/modutils.sh.
+Setting up modutils-initscripts-dbg (1.0-r7) ...
+Setting up modutils-initscripts-dev (1.0-r7) ...
+Setting up mtd-utils (1.5.1+git0+9f107132a6-r0) ...
+Setting up mtd-utils-dbg (1.5.1+git0+9f107132a6-r0) ...
+Setting up mtd-utils-dev (1.5.1+git0+9f107132a6-r0) ...
+Setting up netbase-dbg (1:5.3-r0) ...
+Setting up netbase-dev (1:5.3-r0) ...
+Setting up sysvinit-pidof (2.88dsf-r14) ...
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/pidof to /bin/pidof.sysvinit
+Setting up sysvinit-inittab (2.88dsf-r10) ...
+
+Configuration file `/etc/inittab', does not exist on system.
+Installing new config file as you requested.
+Setting up sysvinit (2.88dsf-r14) ...
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/sbin/init to /sbin/init.sysvinit
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/bin/mountpoint to /bin/mountpoint.sysvinit
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/sbin/halt to /sbin/halt.sysvinit
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/sbin/reboot to /sbin/reboot.sysvinit
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/sbin/runlevel to /sbin/runlevel.sysvinit
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/sbin/shutdown to /sbin/shutdown.sysvinit
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/sbin/poweroff to /sbin/poweroff.sysvinit
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/last to /usr/bin/last.sysvinit
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/mesg to /usr/bin/mesg.sysvinit
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/utmpdump to /usr/bin/utmpdump.sysvinit
+update-alternatives: Linking /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/rootfs/stage/usr/bin/wall to /usr/bin/wall.sysvinit
+Setting up sysvinit-dbg (2.88dsf-r14) ...
+Setting up sysvinit-dev (2.88dsf-r14) ...
+Setting up sysvinit-inittab-dbg (2.88dsf-r10) ...
+Setting up sysvinit-inittab-dev (2.88dsf-r10) ...
+Setting up update-rc.d (0.7-r5) ...
+Setting up update-rc.d-dev (0.7-r5) ...
+Log ended: 2017-03-20  14:42:33

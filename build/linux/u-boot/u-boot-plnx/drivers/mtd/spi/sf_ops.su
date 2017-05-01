@@ -1,0 +1,14 @@
+sf_ops.c:244:13:spi_flash_dual_flash	0	static
+sf_ops.c:265:12:spi_flash_poll_status.isra.4	56	static
+sf_ops.c:152:5:spi_flash_cmd_4B_addr_switch	40	static
+sf_ops.c:345:5:spi_flash_cmd_wait_ready	16	static
+sf_ops.c:366:5:spi_flash_write_common	40	static
+sf_ops.c:50:5:spi_flash_cmd_write_status	32	static
+sf_ops.c:226:12:spi_flash_bank	32	static
+sf_ops.c:407:5:spi_flash_cmd_erase_ops	48	static
+sf_ops.c:466:5:spi_flash_cmd_write_ops	56	static
+sf_ops.c:533:5:spi_flash_read_common	32	static
+sf_ops.c:35:5:spi_flash_cmd_read_status	24	static
+sf_ops.c:97:5:spi_flash_cmd_write_config	32	static
+sf_ops.c:82:5:spi_flash_cmd_read_config	24	static
+sf_ops.c:556:5:spi_flash_cmd_read_ops	56	static

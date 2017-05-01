@@ -1,0 +1,10 @@
+
+Start-Date: 2017-03-20  14:43:47
+Commandline: apt-get install busybox gdbserver init-ifupdown base-files initscripts-functions busybox-inetd sysvinit-pidof sysvinit sysvinit-inittab libgcc-s1 initscripts busybox-mdev netbase busybox-udhcpc libc6 iproute2 modutils-initscripts update-rc.d mtd-utils busybox-syslog update-alternatives-opkg base-passwd --force-yes --allow-unauthenticated
+Install: base-files:cortexa9-vfp-neon (3.0.14-r89), busybox-udhcpc:cortexa9-vfp-neon (1.23.1-r0), busybox-syslog:cortexa9-vfp-neon (1.23.1-r0), iproute2:cortexa9-vfp-neon (3.17.0-r0), update-alternatives-opkg:cortexa9-vfp-neon (0.1.8+git0+53274f0875-r0), busybox-mdev:cortexa9-vfp-neon (1.23.1-r0), modutils-initscripts:cortexa9-vfp-neon (1.0-r7), netbase:cortexa9-vfp-neon (5.3-r0), base-passwd:cortexa9-vfp-neon (3.5.29-r0), mtd-utils:cortexa9-vfp-neon (1.5.1+git0+9f107132a6-r0), sysvinit-inittab:cortexa9-vfp-neon (2.88dsf-r10), update-rc.d:cortexa9-vfp-neon (0.7-r5), libgcc-s1:cortexa9-vfp-neon (4.9.2-r1), gdbserver:cortexa9-vfp-neon (7.7.50.20140217-cvs-r1), init-ifupdown:cortexa9-vfp-neon (1.0-r7), initscripts-functions:cortexa9-vfp-neon (1.0-r155), busybox-inetd:cortexa9-vfp-neon (1.23.1-r0), sysvinit-pidof:cortexa9-vfp-neon (2.88dsf-r14), libc6:cortexa9-vfp-neon (2.21-r1), initscripts:cortexa9-vfp-neon (1.0-r155), sysvinit:cortexa9-vfp-neon (2.88dsf-r14), busybox:cortexa9-vfp-neon (1.23.1-r0)
+End-Date: 2017-03-20  14:43:59
+
+Start-Date: 2017-03-20  14:43:59
+Commandline: apt-get install run-postinsts --force-yes --allow-unauthenticated
+Install: run-postinsts:cortexa9-vfp-neon (1.0-r9)
+End-Date: 2017-03-20  14:44:00

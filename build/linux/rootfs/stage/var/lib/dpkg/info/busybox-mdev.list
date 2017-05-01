@@ -1,0 +1,8 @@
+/.
+/etc
+/etc/init.d
+/etc/init.d/mdev
+/etc/mdev.conf
+/etc/mdev
+/etc/mdev/mdev-mount.sh
+/etc/mdev/find-touchscreen.sh

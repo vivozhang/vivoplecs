@@ -1,0 +1,7 @@
+PROOT:=/home/jie/opt/pkg/Xilinx-ZC702-2015.4
+INSTANCE:=linux/kernel
+-include /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/Makefile.export
+-include /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/kernel/Makefile.export
+CONFIGFILE:=/home/jie/opt/pkg/Xilinx-ZC702-2015.4/subsystems/linux/configs/kernel/config
+dir_linux_kernel_y=/home/jie/opt/pkg/petalinux-v2015.4-final/components/linux-kernel/xlnx-4.0
+

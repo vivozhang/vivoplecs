@@ -1,0 +1,17 @@
+/.
+/usr
+/usr/sbin
+/usr/sbin/flash_otp_lock
+/usr/sbin/mtdinfo
+/usr/sbin/nanddump
+/usr/sbin/flash_otp_write
+/usr/sbin/flash_erase
+/usr/sbin/flashcp
+/usr/sbin/nandtest
+/usr/sbin/flash_lock
+/usr/sbin/flash_eraseall
+/usr/sbin/flash_unlock
+/usr/sbin/flash_otp_info
+/usr/sbin/nandwrite
+/usr/sbin/flash_otp_dump
+/usr/sbin/mtd_debug

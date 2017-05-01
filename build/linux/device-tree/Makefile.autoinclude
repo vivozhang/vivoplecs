@@ -1,0 +1,7 @@
+PROOT:=/home/jie/opt/pkg/Xilinx-ZC702-2015.4
+INSTANCE:=linux/device-tree
+-include /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/Makefile.export
+-include /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/device-tree/Makefile.export
+CONFIGFILE:=/home/jie/opt/pkg/Xilinx-ZC702-2015.4/subsystems/linux/config
+dir_device_tree_y=/home/jie/opt/pkg/petalinux-v2015.4-final/components/device-tree/device-tree-generator
+

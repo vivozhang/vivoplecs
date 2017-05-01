@@ -1,0 +1,7 @@
+PROOT:=/home/jie/opt/pkg/Xilinx-ZC702-2015.4
+INSTANCE:=linux/u-boot
+-include /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/Makefile.export
+-include /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/u-boot/Makefile.export
+CONFIGFILE:=/home/jie/opt/pkg/Xilinx-ZC702-2015.4/subsystems/linux/configs/u-boot/config
+dir_u_boot_y=/home/jie/opt/pkg/petalinux-v2015.4-final/components/u-boot/u-boot-plnx
+

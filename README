@@ -1,0 +1,59 @@
+This is a README file of the pre-builts of the PetaLinux project.
+
+Contents of Prebuilt
+================================================================================
+|-- pre-built/ # Pre-built images directory
+| |-- linux/ # Pre-built Linux system images
+| | |-- images/
+| | | |-- zynq_fsbl.elf # First stage bootloader
+| | | |-- System.map.linux # Linux kernel system map
+| | | |-- zImage # kernel zImage
+| | | |-- image.ub # FIT image including the kernel and DTB
+| | | |-- image.elf # kernel ELF image, not used
+| | | |-- system.dtb # DTB used for A53 Linux kernel
+| | | |-- u-boot.elf # u-boot ELF
+| | | |-- u-boot-s.bin # u-boot BIN file with reloc wrapper used by fs-boot.
+                       # Not used.
+                       # fs-boot is first stage bootloader for MicroBlaze
+| | | |-- BOOT.BIN # Zynq boot BIN file
+| | |-- implementation/
+| | | |-- download.bit # FPGA bitstream
+
+Regenerates Prebuilts
+================================================================================
+The following sections assume you have created a PetaLinux project with a
+reference BSP and are your working directory is the root directory of the
+PetaLinux project.
+
+Software Images
+--------------------------------------------------------------------------------
+You can run the following command to rebuild the software images:
+ * zynq_fsbl.elf
+ * image.ub
+ * zImage
+ * u-boot.elf
+ * system.dtb
+ $ petalinux-build
+
+You can also rebuild some of the images alone as follows:
+ * zynq_fsbl.elf
+   $ petalinux-build -c bootloader
+
+ * u-boot.elf
+   $ petalinux-build -c u-boot
+
+ * system.dtb
+   $ petalinux-build -c device-tree
+
+You can generate BOOT.BIN file with "petalinux-package --boot" command:
+ $ petalinux-package --boot --fpga pre-built/linux/implementation/download.bit \
+   --fsbl pre-built/linux/images/zynq_fsbl.elf \
+   --u-boot=pre-built/linux/images/u-boot-s.bin
+
+Hardware Images
+--------------------------------------------------------------------------------
+ * download.bit
+   The hardware project source files are in "hardware/" directory. You can
+   open the hardware project with vivado, and rebuild it.
+
+

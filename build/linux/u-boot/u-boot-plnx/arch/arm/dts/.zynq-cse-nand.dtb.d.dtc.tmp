@@ -1,0 +1,1 @@
+arch/arm/dts/zynq-cse-nand.dtb: arch/arm/dts/.zynq-cse-nand.dtb.dts.tmp /home/jie/opt/pkg/Xilinx-ZC702-2015.4/build/linux/u-boot/src/u-boot-plnx/arch/arm/dts/skeleton.dtsi

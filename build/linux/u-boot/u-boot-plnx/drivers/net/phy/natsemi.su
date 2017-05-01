@@ -1,0 +1,5 @@
+phy.h:191:19:phy_write.constprop	16	static
+natsemi.c:56:12:dp83865_config	8	static
+natsemi.c:94:12:dp83865_startup	16	static
+natsemi.c:18:12:dp83630_config	16	static
+natsemi.c:113:5:phy_natsemi_init	8	static

@@ -1,0 +1,10 @@
+zynq_gem.c:286:12:zynq_gem_setup_mac	4	static
+zynq_gem.c:564:13:zynq_gem_halt	0	static
+zynq_gem.c:199:12:phy_setup_op	16	static
+zynq_gem.c:583:12:zynq_gem_miiphy_write	24	static
+zynq_gem.c:521:12:zynq_gem_recv	24	static
+zynq_gem.c:476:12:zynq_gem_send	24	static
+zynq_gem.c:572:12:zynq_gem_miiphyread	16	static
+zynq_gem.c:314:12:zynq_gem_init	56	static
+zynq_gem.c:592:5:zynq_gem_initialize	32	static
+zynq_gem.c:651:5:zynq_gem_of_init	24	static

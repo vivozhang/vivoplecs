@@ -1,0 +1,6 @@
+/.
+/etc
+/etc/init.d
+/etc/init.d/syslog.busybox
+/etc/syslog-startup.conf.busybox
+/etc/syslog.conf.busybox
